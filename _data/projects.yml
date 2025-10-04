@@ -1,36 +1,3 @@
-
-- name: "Rust for Malware Development"
-  description: "Using Rust as a weapon to create and build malwares. Complete resources and coding practices for malware development."
-  long_description: "This repository contains source codes of various techniques used by real-world malware authors, red teamers, threat actors, state-sponsored hacking groups etc. These techniques are well-researched and implemented in Rust."
-  features:
-    - "AV Evasion"
-    - "Obfuscating Payloads"
-    - "Encryfer-X (Ransomware)"
-    - "Malwares and Keyloggers etc..."
-  tags: ["Rust", "Malware", "Red Teaming", "Security"]
-  stars: 2683
-  github_url: "https://github.com/yourusername/rust-malware-dev"
-  
-- name: "PowerShell For Hackers and Pentesters"
-  description: "A collection of PowerShell Scripts, Hacks, Tutorials etc. Complete resources for automating hacks, red team operations, and pentesting tasks."
-  long_description: "This Repository contains all kinds of Hacks and PowerShell Tricks, from basics to advanced PowerShell commands and scripts that will help you in day-to-day life of an IT Sectors, cybersecurity or Windows Automation."
-  features:
-    - "PowerShell Scripts and Hacks"
-    - "Advanced PowerShell Commands"
-    - "Automation Scripts"
-    - "Pentesting Tools"
-  tags: ["PowerShell", "Hacking", "Windows", "Security"]
-  stars: 445
-  github_url: "https://github.com/yourusername/powershell-hackers"
-
-- name: "Windows Activator"
-  description: "A Windows Activator using batch and PowerShell scripts that automatically activates Windows 10 and 11 within minutes."
-  long_description: "Tested on Windows 10 and 11 versions. The code is open source, designed for educational purposes."
-  features:
-    - "Automatic Windows Activation"
-    - "Support for Windows 10 & 11"
-    - "Batch and PowerShell Scripts"
-    - "Open Source"
-  tags: ["Windows", "Batch", "PowerShell", "Activation"]
-  stars: 112
-  github_url: "https://github.com/yourusername/windows-activator"
+- name: "Still working 🚧"
+  description: "Work In Progress. Check back soon!"
+  long_description: "Content is being prepared and will be available shortly."
