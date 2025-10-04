@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="projects-container">
+  <header class="projects-header">
+    <h1 class="dynamic-title">{{ page.title }}</h1>
+    <p class="projects-subtitle">{{ page.description }}</p>
+  </header>
+
+  <div class="projects-grid">
+    {% for project in site.data.projects %}
+    <article class="project-card">
+      <div class="project-header">
+        <h2 class="project-title">
+          <a href="{{ project.github_url }}" target="_blank" rel="noopener">
+            {{ project.name }}
+            <svg class="external-link" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m9 15 6-6m0 0-4-4m4 4H9"></path>
+            </svg>
+          </a>
+        </h2>
+        <div class="project-stats">
+          <span class="stars">⭐ {{ project.stars }}</span>
+        </div>
+      </div>
+      
+      <p class="project-description">{{ project.description }}</p>
+      
+      {% if project.features %}
+      <div class="project-features">
+        <h3>Key Features:</h3>
+        <ul>
+          {% for feature in project.features %}
+          <li>{{ feature }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      
+      <div class="project-tags">
+        {% for tag in project.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      
+      <div class="project-actions">
+        <a href="{{ project.github_url }}" class="btn btn-primary" target="_blank" rel="noopener">
+          View Repository
+        </a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</div>

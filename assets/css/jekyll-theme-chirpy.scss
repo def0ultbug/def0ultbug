@@ -9,3 +9,113 @@
 ';
 
 /* append your custom style below */
+#sidebar {
+  border-right: 1px solid #333;        // subtle dark border
+
+  /* Sidebar links */
+  a.nav-link {
+    color: #aaa;                        // muted text color
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: #2a2a2a;       // slightly lighter black
+      color: rgb(174, 129, 255);                  // red on hover
+    }
+  }
+
+  /* Active link */
+  li.nav-item.active .nav-link {
+    background-color: #2a2a2a;
+    color: #e50914;                    // red active link
+  }
+
+  /* Sidebar buttons */
+  .sidebar-bottom a {
+    background-color: #222;            // dark button
+    color: #e0e0e0;
+    border: 1px solid #333;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: #2a2a2a;
+      color: rgb(174, 129, 255);                  // red hover
+    }
+  }
+
+  /* Avatar border */
+  #avatar {
+    box-shadow: 
+      0 0 0 2px #e50914,              // red outer shadow
+      0 0 0 4px rgb(174, 129, 255);     // subtle red border
+  }
+
+  /* Site title */
+  .site-title {
+    color: rgb(174, 129, 255);                    // red title
+  }
+
+  /* Site subtitle */
+  .site-subtitle {
+    color: #aaa;
+  }
+
+  /* Scrollbar (hidden) */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+
+  &::-webkit-scrollbar {
+    display: none;            /* Chrome, Safari, Opera */
+  }
+}
+
+/* --- Topbar Red & Purple Theme --- */
+
+#topbar-wrapper {      // black topbar
+  // subtle border
+  box-shadow: 0 2px 6px rgb(174, 129, 255); // red shadow glow
+}
+
+/* Sidebar / Panel custom theme */
+#panel-wrapper {
+  // dark base
+  border-left: 1px solid #222;
+
+  .panel-heading {
+    font-family: inherit;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.5rem 0;
+    margin-bottom: 0.75rem;
+    color: rgb(174, 129, 255);
+    border-bottom: 2px solid purple;
+  }
+  .access {
+  section {
+    a {
+      color:  rgb(174, 129, 255);
+    }
+  }
+}
+
+  .post-tag {
+    line-height: 1.05rem;
+    font-size: 0.85rem;
+    border-radius: 0.8rem;
+    padding: 0.3rem 0.6rem;
+    margin: 0 0.35rem 0.5rem 0;
+    background-color: #1a1a1a;
+    color: #fff;
+    border: 1px solid #333;
+    transition: all 0.3s ease-in;
+
+    &:hover {
+      background-color: rgb(59, 79, 88);
+      color: rgb(174, 129, 255);
+    
+    }
+  }
+
+  > :last-child {
+    margin-bottom: 4rem;
+  }
+}
