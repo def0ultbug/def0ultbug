@@ -50,9 +50,9 @@ My work lives at the intersection of **offensive security** and **AI-powered sys
 | Layer | Tools |
 |---|---|
 | **Languages** | Python · C · Go |
-| **AI / ML** | PyTorch · FastAI · Scikit-learn · LLMs (OpenAI, local) |
+| **AI / ML** | PyTorch · FastAI · LangChain · CrewAI · AutoGen LLMs · (OpenAI, Claude, local) |
 | **Security** | Penetration Testing · Exploit Dev · Network Analysis |
-| **Backend** | FastAPI · REST APIs · MongoDB |
+| **Backend** | FastAPI · REST APIs · MongoDB · Redis|
 | **Infra** | Docker · Git · Linux |
 
 ---
@@ -61,9 +61,9 @@ My work lives at the intersection of **offensive security** and **AI-powered sys
 
 ```python
 focus = {
-    "research"  : ["LLM agents", "adversarial AI", "agentic automation"],
-    "building"  : ["AI-powered security tools", "autonomous reasoning systems"],
-    "learning"  : ["exploit development", "RL for decision-making", "systems programming"],
+    "research" : ["LLM agents", "adversarial AI", "agentic automation"],
+    "building" : ["AI-powered security tools", "autonomous reasoning systems"],
+    "learning" : ["Transformers & fine-tuning", "RL for decision-making", "exploit development"],
 }
 ```
 
@@ -83,8 +83,8 @@ focus = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=C2462B&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=def0ultbug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=C2462B&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=def0ultbug&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" height="160"/>
 </div>
 
 <div align="center">
