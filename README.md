@@ -49,10 +49,10 @@ My work lives at the intersection of **offensive security** and **AI-powered sys
 
 | Layer | Tools |
 |---|---|
-| **Languages** | Python · C · Go |
-| **AI / ML** | PyTorch · FastAI · LangChain · CrewAI · AutoGen LLMs · (OpenAI, Claude, local) |
-| **Security** | Penetration Testing · Exploit Dev · Network Analysis |
-| **Backend** | FastAPI · REST APIs · MongoDB · Redis|
+| **Languages** | Python · C |
+| **AI / ML** | PyTorch · FastAI · LangChain · CrewAI · AutoGen LLMs |
+| **Security** | Penetration Testing · Exploit Dev |
+| **Backend** | FastAPI · MongoDB · Redis|
 | **Infra** | Docker · Git · Linux |
 
 ---
