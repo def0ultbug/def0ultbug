@@ -35,7 +35,7 @@
 
 ## 👾 About Me
 
-I'm a Systems Engineering student interested in both **low-level systems** and **AI-powered systems** — mostly where the two overlap.
+I'm a **Systems Engineering student** interested in both **low-level systems** and **AI-powered systems** — mostly where the two overlap.
 
 I spend most of my time building security tools and messing around with AI, trying to make things that are actually useful rather than just cool on paper. I like understanding how systems work at a deep level — how they're built, how they fail, and how far you can push them.
 
