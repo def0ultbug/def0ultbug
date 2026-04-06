@@ -35,13 +35,13 @@
 
 ## 👾 About Me
 
-I'm a **Systems Engineering student** navigating the edge between low-level systems and high-level intelligence.
+I'm a Systems Engineering student interested in both **low-level systems** and **AI-powered systems** — mostly where the two overlap.
 
-My work lives at the intersection of **offensive security** and **AI-powered systems** — building tools that are both technically sharp and practically useful. I care about understanding systems at a deep level: how they break, how they think, and how they can be made to do more.
+I spend most of my time building security tools and messing around with AI, trying to make things that are actually useful rather than just cool on paper. I like understanding how systems work at a deep level — how they're built, how they fail, and how far you can push them.
 
-- 🔬 Currently exploring **agentic AI architectures**, **LLM-based automation**, and their applications in adversarial contexts  
-- 🧠 Long-term interests: **Deep Learning**, **Reinforcement Learning**, **offensive tooling**, and **autonomous systems**  
-- 🎯 Goal: Build systems that are not just functional — but precise, purposeful, and impactful  
+- 🔬 Currently into **agentic AI architectures**, **LLM-based automation**, and how they apply to offensive security
+- 🧠 Long-term: **Deep Learning**, **Reinforcement Learning**, **autonomous systems**, and **offensive tooling**
+- 🎯 I want to build things that are precise and purposeful, not just functional
 
 ---
 
