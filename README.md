@@ -45,18 +45,6 @@ I spend most of my time building security tools and messing around with AI, tryi
 
 ---
 
-## ⚙️ Stack
-
-| Layer | Tools |
-|---|---|
-| **Languages** | Python · C |
-| **AI / ML** | PyTorch · FastAI · LangChain · CrewAI |
-| **Security** | Penetration Testing · Exploit Dev |
-| **Backend** | FastAPI · MongoDB · Redis|
-| **Infra** | Docker · Git · Linux |
-
----
-
 ## 🔭 Current Focus
 
 ```python
