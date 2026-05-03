@@ -1,6 +1,6 @@
 <div align="center">
 
-### `whoami` → Systems Engineer · Offensive Security · AI Research
+## 👋 Hi! I'm Youssef
 
 </div>
 
@@ -33,18 +33,6 @@ I spend most of my time building security tools and messing around with AI, tryi
 - 🔬 Currently into **agentic AI architectures**, **LLM-based automation**, and how they apply to offensive security
 - 🧠 Long-term: **Deep Learning**, **Reinforcement Learning**, **autonomous systems**, and **offensive tooling**
 - 🎯 I want to build things that are precise and purposeful, not just functional
-
----
-
-## 🔭 Current Focus
-
-```python
-focus = {
-    "research" : ["LLM agents", "adversarial AI", "agentic automation"],
-    "building" : ["AI-powered security tools", "autonomous reasoning systems"],
-    "learning" : ["Transformers & fine-tuning", "RL for decision-making", "exploit development"],
-}
-```
 
 ---
 
