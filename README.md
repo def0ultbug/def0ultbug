@@ -4,8 +4,6 @@
 
 </div>
 
-
-
 <p align="left">
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-1e2a3a?style=for-the-badge&logo=python&logoColor=4A90D9"/>
@@ -23,9 +21,6 @@
 </p>
 
 
-
-## 👾 About Me
-
 I'm a **Systems Engineering student** interested in both **low-level systems** and **AI-powered systems** — mostly where the two overlap.
 
 I spend most of my time building security tools and messing around with AI, trying to make things that are actually useful rather than just cool on paper. I like understanding how systems work at a deep level — how they're built, how they fail, and how far you can push them.
@@ -34,9 +29,7 @@ I spend most of my time building security tools and messing around with AI, tryi
 - 🧠 Long-term: **Deep Learning**, **Reinforcement Learning**, **autonomous systems**, and **offensive tooling**
 - 🎯 I want to build things that are precise and purposeful, not just functional
 
-
-
-## 📡 Find Me
+You can find me
 
 <p align="left">
   <a href="https://linkedin.com/in/youssef-mahfoudh-084760270/" target="_blank">
