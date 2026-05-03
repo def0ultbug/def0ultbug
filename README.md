@@ -34,7 +34,7 @@ I spend most of my time building security tools and messing around with AI, tryi
 - 🧠 Long-term: **Deep Learning**, **Reinforcement Learning**, **autonomous systems**, and **offensive tooling**
 - 🎯 I want to build things that are precise and purposeful, not just functional
 
----
+
 
 ## 📡 Find Me
 
@@ -47,7 +47,7 @@ I spend most of my time building security tools and messing around with AI, tryi
   </a>
 </p>
 
----
+
 
 <div align="center">
 
