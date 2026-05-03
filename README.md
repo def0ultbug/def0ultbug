@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 <p align="left">
   <!-- Core Languages -->
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Offensive%20Security-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
----
+
 
 ## 👾 About Me
 
