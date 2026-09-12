@@ -6,6 +6,6 @@ I build security tooling and agentic AI systems — automation that reasons over
 
 Stack: Python, Go, C, TypeScript. Background in offensive security and systems-level work.
 
-**Interests:** agentic architectures, LLM automation, deep learning, reinforcement learning, offensive tooling.
+**Interests:** agentic automation, offensive tooling.
 
 [LinkedIn](https://linkedin.com/in/youssef-mahfoudh-084760270/) · [X/Twitter](https://x.com/Def0ultBng)
